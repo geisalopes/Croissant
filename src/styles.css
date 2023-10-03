@@ -1,3 +1,14 @@
 body {
   background-color: rgb(255, 251, 231);
 }
+
+.croissant-picture {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer a {
+  color: rgb(112, 49, 176);
+}
